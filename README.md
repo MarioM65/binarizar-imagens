@@ -1,0 +1,1 @@
+# binarizar-imagens
